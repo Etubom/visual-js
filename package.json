@@ -1,0 +1,14 @@
+{
+  "name": "visual",
+  "version": "1.0.0",
+  "description": "linkedin-visual-js-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "etubom",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.1.9"
+  }
+}
